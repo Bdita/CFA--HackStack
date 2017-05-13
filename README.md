@@ -1,5 +1,6 @@
 ### About Project
   A terminal application when prompted by user displays top 10 unanswered questions of stack overflow. The data is extracted from Stack Exchange API using axios, promise based HTTP client that works both in the browser and in a node.js environment.
+![terminal screenshot](http://res.cloudinary.com/dihqhbf9i/image/upload/v1494647241/hackStack_insona.png)
 
 ### Installation Instruction
 #### Dependencies:
